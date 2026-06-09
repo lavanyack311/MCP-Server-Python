@@ -1,0 +1,18 @@
+🛠️ What You’ll Learn:
+How to set up a modern Python development environment using the UV package manager
+Build an MCP server from scratch with the FastMCP framework
+Integrate the Google Search API for powerful documentation search
+Parse and process web data efficiently with BeautifulSoup
+Configure Claude Desktop to connect with your custom MCP server
+Manage async operations seamlessly using httpx
+Implement robust error handling and timeouts for stability
+
+📚 Technologies Covered:
+Model Context Protocol (MCP)
+Python 3.10+
+UV Package Manager
+FastMCP SDK
+Claude Desktop
+httpx
+BeautifulSoup
+Google Serper API
